@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaopbicalho
-- I’m a fourth year student at the University of Toronto studying Engineering Physics double minoring in Robotics and Mechatronics and Artificial Intelligence
-- I have taken courses in python, C, verilog HDL and Arm assembly, including Data Structures and Algorithms, Computer Organization, Artificial Intelligence and more
+- I am currently working as a Flight Software Engineer at The Exploration Company
+- I graduated from the University of Toronto with a bachelors in Engineering Physics and a double minor in Robotics Engineering and AI
 - You can reach me in my email joaopedrobicalho13@gmail.com
 
 <!---
